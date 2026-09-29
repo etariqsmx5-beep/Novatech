@@ -1,3 +1,10 @@
+# NOVATECH
+
+## Memoria del proyecto
+
+**Curso:** SMX2  
+**Proyecto:** NovaTech  
+**Tipo de proyecto:** Tienda online de productos informáticos con asistente de recomendación
 Índice
 Introducción - ¿qué estamos haciendo?
 Briefing de ideas
