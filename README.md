@@ -42,7 +42,11 @@ Además, el proyecto contará con un asistente de recomendación que ayudará a 
 
 # 3. Briefing de ideas
 
-Aquí escribiremos el briefing.
+La idea de NovaTech surge porque muchas personas tienen dificultades para elegir productos informáticos debido a la cantidad de características técnicas que existen.
+
+Nuestra propuesta es crear una tienda online donde los productos estén organizados y explicados de una forma sencilla.
+
+También queremos añadir un asistente que permita indicar qué necesita el usuario y cuánto quiere gastar. De esta manera, podrá recibir recomendaciones de productos que se adapten a sus necesidades.
 
 
 # 4. Arquitectura del software
