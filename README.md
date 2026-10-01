@@ -33,7 +33,11 @@
 
 # 2. Introducción - ¿Qué estamos haciendo?
 
-Aquí escribiremos la información de la introducción.
+NovaTech es una tienda online de productos informáticos. En la página se podrán consultar diferentes productos como ordenadores, componentes, periféricos y otros dispositivos.
+
+Nuestro objetivo es hacer que la búsqueda de productos sea más sencilla, especialmente para personas que no tienen muchos conocimientos de informática.
+
+Además, el proyecto contará con un asistente de recomendación que ayudará a elegir productos según las necesidades del usuario y su presupuesto.
 
 
 # 3. Briefing de ideas
