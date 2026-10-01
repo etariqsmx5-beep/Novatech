@@ -57,6 +57,9 @@ Aquí escribiremos las tecnologías.
 
 Aquí pondremos el diagrama.
 
+## b. Mapa físico
+
+Aquí pondremos el diagrama.
 
 ## c. Mapa lógico
 
