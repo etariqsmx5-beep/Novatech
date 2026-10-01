@@ -33,19 +33,20 @@
 
 # 2. Introducción - ¿Qué estamos haciendo?
 
-NovaTech es una tienda online de productos informáticos. En la página se podrán consultar diferentes productos como ordenadores, componentes, periféricos y otros dispositivos.
+NovaTech es una tienda online de productos informáticos donde se podrán consultar diferentes productos como ordenadores, componentes, periféricos y otros dispositivos.
 
-Nuestro objetivo es hacer que la búsqueda de productos sea más sencilla, especialmente para personas que no tienen muchos conocimientos de informática.
+Nuestro objetivo es hacer que la búsqueda de productos sea más sencilla, especialmente para personas que no tienen muchos conocimientos de informática y cuenta con un asistente de recomendación que ayuda a elegir los productos adecuados
 
-Además, el proyecto contará con un asistente de recomendación que ayudará a elegir productos según las necesidades del usuario y su presupuesto.
+Además, el proyecto incluye la infraestructura necesaria para que funcione: una base de datos, un servidor web, una red con firewall y un sistema de copias de seguridad. 
 
 
 # 3. Briefing de ideas
 
-La idea de NovaTech surge porque muchas personas tienen dificultades para elegir productos informáticos debido a la cantidad de características técnicas que existen.
+Hoy en día, comprar un producto informático puede ser complicado para una persona que no tiene conocimientos técnicos.
+Las tiendas suelen mostrar muchas características, como la memoria RAM, el tipo de procesador, la capacidad de almacenamiento o los distintos tipos de conexiones, y entender todo esto no es sencillo.
 
-Nuestra propuesta es crear una tienda online donde los productos estén organizados y explicados de una forma sencilla.
-
+Normalmente, el usuario si sabe para qué quiere el producto, por ejemplo para estudiar trabajar o para el uso de determinadas programas, pero no sabe qué procesador, cuánta memoria o qué almacenamiento necesita para hacerlo. 
+Esa distancia entre lo que la persona quiere y lo que realmente necesita es el problema que queremos reolver con NOVATECH.
 También queremos añadir un asistente que permita indicar qué necesita el usuario y cuánto quiere gastar. De esta manera, podrá recibir recomendaciones de productos que se adapten a sus necesidades.
 
 
