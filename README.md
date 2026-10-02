@@ -48,7 +48,7 @@ Además, el proyecto incluye la infraestructura necesaria para que funcione: una
 
 NovaTech será una tienda online de productos informáticos. En ella se podrán consultar diferentes productos como ordenadores, componentes, periféricos y otros dispositivos.
 
-Además, tendrá un asistente de recomendación que ayudará al usuario a encontrar un producto según sus necesidades y su presupuesto.
+Tendrá un asistente de recomendación que ayudará al usuario a encontrar un producto según sus necesidades y su presupuesto.
 
 ## 3.2 Justificación
 
