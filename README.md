@@ -112,27 +112,30 @@ Necesitaremos:
 
 ## 3.8 Recursos
 
-Para realizar el proyecto utilizaremos documentación oficial, tutoriales y vídeos relacionados con las tecnologías que utilizaremos.
+Para realizar el proyecto utilizaremos diferentes plataformas y recursos relacionados con el desarrollo web, las bases de datos, las redes y la virtualización.
 
 ### Webgrafía
 
-- Documentación de GitHub.
-- Documentación de PHP.
-- Documentación de MySQL.
-- Documentación de Apache.
-- Documentación de VirtualBox.
-- Documentación de pfSense.
+* **MDN Web Docs:** documentación y tutoriales de HTML, CSS y JavaScript.
+* **PHP Documentation:** documentación oficial de PHP.
+* **MySQL Documentation:** documentación oficial de MySQL.
+* **Apache:** documentación del servidor web Apache.
+* **VirtualBox:** documentación sobre virtualización y máquinas virtuales.
+* **pfSense:** documentación sobre firewall y configuración de redes.
+* **GitHub Docs:** documentación para trabajar con GitHub y gestionar el proyecto.
 
 ### Vídeos y tutoriales
 
-También utilizaremos vídeos y tutoriales sobre:
+También utilizaremos tutoriales y vídeos educativos para aprender y resolver dudas sobre:
 
-- Desarrollo web.
-- PHP y MySQL.
-- Redes.
-- DNS y DHCP.
-- Virtualización.
-- Configuración de servidores.
+* Desarrollo web.
+* HTML, CSS y JavaScript.
+* PHP y MySQL.
+* Redes y configuración de servidores.
+* DNS y DHCP.
+* Virtualización con VirtualBox.
+* Configuración de pfSense.
+
   
 # 4. Arquitectura del software
 
