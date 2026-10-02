@@ -121,7 +121,30 @@ Para realizar el proyecto utilizaremos documentación y recursos relacionados co
 - GitHub para guardar el código y la memoria.
 - Trello para organizar el trabajo del equipo.
 
+## 3.7 Recursos
 
+Para realizar el proyecto utilizaremos documentación oficial, tutoriales y vídeos relacionados con las tecnologías que utilizaremos.
+
+### Webgrafía
+
+- Documentación de GitHub.
+- Documentación de PHP.
+- Documentación de MySQL.
+- Documentación de Apache.
+- Documentación de VirtualBox.
+- Documentación de pfSense.
+
+### Vídeos y tutoriales
+
+También utilizaremos vídeos y tutoriales sobre:
+
+- Desarrollo web.
+- PHP y MySQL.
+- Redes.
+- DNS y DHCP.
+- Virtualización.
+- Configuración de servidores.
+  
 # 4. Arquitectura del software
 
 Aquí escribiremos la arquitectura.
