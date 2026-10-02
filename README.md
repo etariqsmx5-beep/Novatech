@@ -42,12 +42,92 @@ Además, el proyecto incluye la infraestructura necesaria para que funcione: una
 
 # 3. Briefing de ideas
 
+## 3.1 Idea seleccionada
+
+**Título del proyecto:** NovaTech
+
+NovaTech será una tienda online de productos informáticos. En ella se podrán consultar diferentes productos como ordenadores, componentes, periféricos y otros dispositivos.
+
+Además, tendrá un asistente de recomendación que ayudará al usuario a encontrar un producto según sus necesidades y su presupuesto.
+
+## 3.2 Justificación
+
+Hemos elegido esta idea porque muchas personas quieren comprar productos informáticos pero no entienden bien todas sus características técnicas.
+
+Con NovaTech queremos hacer que la búsqueda y elección de productos sea más sencilla y fácil de entender.
+
+## 3.3 Objetivos
+
+Nuestros objetivos son:
+
+- Crear una página web funcional para consultar productos informáticos.
+- Organizar los productos por categorías.
+- Permitir buscar y filtrar productos.
+- Mostrar información clara sobre los productos.
+- Crear un asistente de recomendación según las necesidades y el presupuesto.
+- Utilizar una base de datos para guardar la información de los productos.
+- Crear una infraestructura de red y servidores para el proyecto.
+- Aplicar medidas de seguridad y realizar copias de seguridad.
+
+## 3.4 Público objetivo
+
+El proyecto está dirigido principalmente a personas que quieren comprar productos informáticos pero no tienen muchos conocimientos técnicos.
+
+También puede servir a usuarios que saben qué necesitan hacer, pero no saben qué características debe tener el producto que necesitan.
+
+## 3.5 Módulos del ciclo relacionados
+
+Los módulos de SMX que están relacionados con nuestro proyecto son:
+
+- **Redes Locales:** para diseñar y configurar la red del proyecto.
+- **Sistemas Operativos:** para instalar y configurar los sistemas de los servidores y máquinas virtuales.
+- **Montaje y mantenimiento de equipos:** para conocer y trabajar con el hardware necesario.
+- **Digitalización:** para trabajar con herramientas digitales y la organización del proyecto.
+
+## 3.6 Materiales físicos
+
+Para realizar el proyecto necesitaremos:
+
+- Ordenadores.
+- Servidor o máquinas virtuales.
+- Switch.
+- Router/firewall.
+- Cables de red.
+- Discos o almacenamiento para las copias de seguridad.
+
+## 3.7 Materiales lógicos
+
+Necesitaremos:
+
+- Windows y/o Linux.
+- VirtualBox para las máquinas virtuales.
+- HTML, CSS y JavaScript.
+- PHP.
+- MySQL.
+- Apache o NGINX.
+- DNS y DHCP.
+- pfSense para el firewall.
+- GitHub para guardar y documentar el proyecto.
+- Trello para organizar las tareas.
+
+## 3.8 Recursos
+
+Para realizar el proyecto utilizaremos documentación y recursos relacionados con las tecnologías que vamos a utilizar, como:
+
+- Documentación oficial de las herramientas utilizadas.
+- Tutoriales y vídeos sobre redes, servidores y desarrollo web.
+- Documentación de HTML, CSS, JavaScript, PHP y MySQL.
+- Recursos sobre VirtualBox, Apache, DNS, DHCP y pfSense.
+- GitHub para guardar el código y la memoria.
+- Trello para organizar el trabajo del equipo.
+
 Hoy en día, comprar un producto informático puede ser complicado para una persona que no tiene conocimientos técnicos.
 Las tiendas suelen mostrar muchas características, como la memoria RAM, el tipo de procesador, la capacidad de almacenamiento o los distintos tipos de conexiones, y entender todo esto no es sencillo.
 
 Normalmente, el usuario si sabe para qué quiere el producto, por ejemplo para estudiar trabajar o para el uso de determinadas programas, pero no sabe qué procesador, cuánta memoria o qué almacenamiento necesita para hacerlo. 
 Esa distancia entre lo que la persona quiere y lo que realmente necesita es el problema que queremos reolver con NOVATECH.
-También queremos añadir un asistente que permita indicar qué necesita el usuario y cuánto quiere gastar. De esta manera, podrá recibir recomendaciones de productos que se adapten a sus necesidades.
+También queremos añadir un asistente que permita indicar qué necesita el usuario y cuánto quiere gastar. De esta manera, podrá recibir recomendaciones de productos que se adapten a sus necesidades. El asistente también explicará con palabras sencillas, por qué esas características son adecuadas para el uso indicado, de manera que la persona no solo reciba una recomendación sino que entiende por qué se le recomienda.
+
 
 
 # 4. Arquitectura del software
