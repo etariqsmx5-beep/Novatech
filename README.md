@@ -121,14 +121,6 @@ Para realizar el proyecto utilizaremos documentación y recursos relacionados co
 - GitHub para guardar el código y la memoria.
 - Trello para organizar el trabajo del equipo.
 
-Hoy en día, comprar un producto informático puede ser complicado para una persona que no tiene conocimientos técnicos.
-Las tiendas suelen mostrar muchas características, como la memoria RAM, el tipo de procesador, la capacidad de almacenamiento o los distintos tipos de conexiones, y entender todo esto no es sencillo.
-
-Normalmente, el usuario si sabe para qué quiere el producto, por ejemplo para estudiar trabajar o para el uso de determinadas programas, pero no sabe qué procesador, cuánta memoria o qué almacenamiento necesita para hacerlo. 
-Esa distancia entre lo que la persona quiere y lo que realmente necesita es el problema que queremos reolver con NOVATECH.
-También queremos añadir un asistente que permita indicar qué necesita el usuario y cuánto quiere gastar. De esta manera, podrá recibir recomendaciones de productos que se adapten a sus necesidades. El asistente también explicará con palabras sencillas, por qué esas características son adecuadas para el uso indicado, de manera que la persona no solo reciba una recomendación sino que entiende por qué se le recomienda.
-
-
 
 # 4. Arquitectura del software
 
