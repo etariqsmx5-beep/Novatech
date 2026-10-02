@@ -112,17 +112,6 @@ Necesitaremos:
 
 ## 3.8 Recursos
 
-Para realizar el proyecto utilizaremos documentación y recursos relacionados con las tecnologías que vamos a utilizar, como:
-
-- Documentación oficial de las herramientas utilizadas.
-- Tutoriales y vídeos sobre redes, servidores y desarrollo web.
-- Documentación de HTML, CSS, JavaScript, PHP y MySQL.
-- Recursos sobre VirtualBox, Apache, DNS, DHCP y pfSense.
-- GitHub para guardar el código y la memoria.
-- Trello para organizar el trabajo del equipo.
-
-## 3.7 Recursos
-
 Para realizar el proyecto utilizaremos documentación oficial, tutoriales y vídeos relacionados con las tecnologías que utilizaremos.
 
 ### Webgrafía
