@@ -51,9 +51,9 @@ Tendrá un asistente de recomendación que ayudará al usuario a encontrar un pr
 
 ## 3.2 Justificación
 
-Hemos elegido esta idea porque muchas personas quieren comprar productos informáticos pero no entienden bien todas sus características técnicas.
+Hemos elegido esta idea porque muchas personas quieren comprar productos informáticos, pero no entienden bien todas sus características técnicas.
 
-Con NovaTech queremos hacer que la búsqueda y elección de productos sea más sencilla y fácil de entender.
+Con NovaTech queremos hacer que la búsqueda y elección de productos sea más sencilla y fácil de entender. Por eso, proponemos una tienda con información clara, categorías organizadas y un asistente que ayude a elegir según las necesidades y el presupuesto de cada usuario
 
 ## 3.3 Objetivos
 
