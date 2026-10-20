@@ -33,12 +33,11 @@
 
 # 2. Introducción - ¿Qué estamos haciendo?
 
-NovaTech es una tienda online de productos informáticos donde se podrán consultar diferentes productos como ordenadores, componentes, periféricos y otros dispositivos.
+NovaTech es una tienda online de productos informáticos donde los usuarios podrán consultar diferentes productos, como ordenadores, componentes, periféricos y otros dispositivos.
 
-Nuestro objetivo es hacer que la búsqueda de productos sea más sencilla, especialmente para personas que no tienen muchos conocimientos de informática y cuenta con un asistente de recomendación que ayuda a elegir los productos adecuados
+El objetivo principal es facilitar la búsqueda y elección de productos, especialmente para las personas que no tienen muchos conocimientos de informática. Para ello, la tienda contará con un asistente de recomendación que ayudará a los usuarios a encontrar productos adecuados a sus necesidades y a su presupuesto.
 
-Además, el proyecto incluye la infraestructura necesaria para que funcione: una base de datos, un servidor web, una red con firewall y un sistema de copias de seguridad. 
-
+Además, el proyecto incluye la infraestructura necesaria para su funcionamiento, como una base de datos, un servidor web, una red protegida por un firewall y un sistema de copias de seguridad.
 
 # 3. Briefing de ideas
 
@@ -58,16 +57,25 @@ Con NovaTech queremos hacer que la búsqueda y elección de productos sea más s
 
 ## 3.3 Objetivos
 
-Nuestros objetivos son:
+# Objetivo principal
 
-- Crear una página web funcional para consultar productos informáticos.
-- Organizar los productos por categorías.
-- Permitir buscar y filtrar productos.
-- Mostrar información clara sobre los productos.
-- Crear un asistente de recomendación según las necesidades y el presupuesto.
-- Utilizar una base de datos para guardar la información de los productos.
-- Crear una infraestructura de red y servidores para el proyecto.
-- Aplicar medidas de seguridad y realizar copias de seguridad.
+Diseñar y desarrollar una tienda online de productos informáticos que facilite la búsqueda y elección de productos, especialmente para personas con pocos conocimientos técnicos.
+
+# Objetivos específicos
+
+Organizar los productos informáticos por categorías.
+
+Incorporar un buscador y filtros para localizar productos.
+
+Mostrar información clara y comprensible sobre cada producto.
+
+Diseñar un asistente que recomiende productos según las necesidades y el presupuesto del usuario.
+
+Diseñar una base de datos para almacenar la información de los productos.
+
+Planificar la infraestructura de red y los servidores necesarios para el proyecto.
+
+Aplicar medidas de seguridad y establecer un sistema de copias de seguridad.
 
 ## 3.4 Público objetivo
 
