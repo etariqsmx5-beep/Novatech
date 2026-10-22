@@ -220,5 +220,7 @@ Aquí escribiremos las conclusiones.
 # 10. Bibliografía
 
 https://help.figma.com/hc/en-us/articles/360040451373-Guide-to-auto-layout-in-Figma
+
 https://help.figma.com/hc/en-us/articles/26584819173271-Layers-101-Get-started-with-layers
+
 https://help.figma.com/hc/en-us/articles/30848209492887-Course-overview-Figma-Design-for-beginners-2025
