@@ -232,15 +232,8 @@ Aquí pondremos el diseño.
 
 ### e. Mockup
 
-<img width="1366" height="2326" alt="Inicio" src="https://github.com/user-attachments/assets/06b8dcdb-8067-488e-b307-a4455bfb30eb" />
+[Marco+Board+Bhavit+y+Eeman.pdf](https://github.com/user-attachments/files/35216187/Marco%2BBoard%2BBhavit%2By%2BEeman.pdf)
 
-<img width="1366" height="1997" alt="Catálogo de productos" src="https://github.com/user-attachments/assets/a3b4596c-d58d-4a9a-9f90-094772917ad2" />
-
-<img width="1366" height="2449" alt="Group 1" src="https://github.com/user-attachments/assets/cda0ae4a-df20-410e-9db1-37c46f354c78" />
-
-<img width="1366" height="2024" alt="Group 2" src="https://github.com/user-attachments/assets/641d1026-969d-4fc1-a862-95a4ea9b4c21" />
-
-<img width="1366" height="1468" alt="Carrito" src="https://github.com/user-attachments/assets/536e1a95-ed10-4940-bb7d-cb45b2a5c285" />
 
 ### f. Mapa de navegabilidad
 
