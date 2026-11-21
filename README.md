@@ -232,11 +232,15 @@ Aquí pondremos el diseño.
 
 ### e. Mockup
 
-[Purchase.pdf](https://github.com/user-attachments/files/35214326/Purchase.pdf)
-[Novatech proyecto Bhavit i Eeman.pdf](https://github.com/user-attachments/files/35214325/Novatech.proyecto.Bhavit.i.Eeman.pdf)
 <img width="1366" height="2326" alt="Inicio" src="https://github.com/user-attachments/assets/06b8dcdb-8067-488e-b307-a4455bfb30eb" />
-[Catalog content.pdf](https://github.com/user-attachments/files/35214324/Catalog.content.pdf)
 
+<img width="1366" height="1997" alt="Catálogo de productos" src="https://github.com/user-attachments/assets/a3b4596c-d58d-4a9a-9f90-094772917ad2" />
+
+<img width="1366" height="2449" alt="Group 1" src="https://github.com/user-attachments/assets/cda0ae4a-df20-410e-9db1-37c46f354c78" />
+
+<img width="1366" height="1838" alt="Product finder (1)" src="https://github.com/user-attachments/assets/01c347bf-0cb9-4dfb-9b3b-66e13e2dae23" />
+
+<img width="1366" height="1468" alt="Carrito" src="https://github.com/user-attachments/assets/536e1a95-ed10-4940-bb7d-cb45b2a5c285" />
 
 ### f. Mapa de navegabilidad
 
