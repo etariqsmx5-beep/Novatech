@@ -232,7 +232,11 @@ Aquí pondremos el diseño.
 
 ### e. Mockup
 
-Aquí pondremos el mockup.
+[Purchase.pdf](https://github.com/user-attachments/files/35214326/Purchase.pdf)
+[Novatech proyecto Bhavit i Eeman.pdf](https://github.com/user-attachments/files/35214325/Novatech.proyecto.Bhavit.i.Eeman.pdf)
+<img width="1366" height="2326" alt="Inicio" src="https://github.com/user-attachments/assets/06b8dcdb-8067-488e-b307-a4455bfb30eb" />
+[Catalog content.pdf](https://github.com/user-attachments/files/35214324/Catalog.content.pdf)
+
 
 ### f. Mapa de navegabilidad
 
