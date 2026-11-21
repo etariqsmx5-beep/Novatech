@@ -238,7 +238,7 @@ Aquí pondremos el diseño.
 
 <img width="1366" height="2449" alt="Group 1" src="https://github.com/user-attachments/assets/cda0ae4a-df20-410e-9db1-37c46f354c78" />
 
-<img width="1366" height="1838" alt="Product finder (1)" src="https://github.com/user-attachments/assets/01c347bf-0cb9-4dfb-9b3b-66e13e2dae23" />
+<img width="1366" height="2024" alt="Group 2" src="https://github.com/user-attachments/assets/641d1026-969d-4fc1-a862-95a4ea9b4c21" />
 
 <img width="1366" height="1468" alt="Carrito" src="https://github.com/user-attachments/assets/536e1a95-ed10-4940-bb7d-cb45b2a5c285" />
 
