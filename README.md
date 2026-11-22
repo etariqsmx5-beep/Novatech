@@ -289,4 +289,13 @@ https://help.figma.com/hc/en-us/articles/26584819173271-Layers-101-Get-started-w
 
 https://help.figma.com/hc/en-us/articles/30848209492887-Course-overview-Figma-Design-for-beginners-2025
 
+ev.mysql.com/doc/workbench/en/wb-preferences-sql-editor.html
+
+
+
 [↑ Volver al índice](#1-índice)
+
+
+
+
+
